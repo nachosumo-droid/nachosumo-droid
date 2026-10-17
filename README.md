@@ -12,25 +12,46 @@ Desarrollo **apps Android para celulares y Android TV / TV boxes**, con foco en 
 - **Calidad:** tests JUnit / Robolectric, Gradle Kotlin DSL, builds firmados
 
 ## 📱 Proyectos
-> El código fuente es privado. Esta es una vitrina de lo que hice.
+> El código fuente es privado. Esta es una vitrina de lo que hice. Las imágenes son íconos, banners y gráficos reales de cada app.
 
-| App | Qué hace | Destacado | Plataformas |
-|---|---|---|---|
-| **TouchPad** | Usá el celular como touchpad, mouse y teclado del TV | Emparejamiento por PIN, cursor configurable, Wi‑Fi local | Celular + Android TV |
-| **CamaraIP** | Convierte un celular en cámara IP y la mirás en el TV | Descubrimiento automático, fotos y grabación de video, sin ADB ni root | Celular + Android TV |
-| **VozATexto** | Transcripción en vivo de voz o del audio de otras apps | Offline, traducción en el equipo, subtítulos flotantes, exporta TXT/PDF/SRT | Celular + Android TV |
-| **Gordi** | Mascota virtual estilo Tamagotchi de los 90 | Varias especies, evolución, notificaciones, partida local | Celular |
-| **Consola TV** | Consola de ajustes y terminal dentro del propio TV box | Ajustes explicados en castellano, nivel de riesgo y revertir, glosario | Android TV |
-| **Mesa** | Panel de ajustes, terminal y datos del equipo | Buscador de ~118 comandos con explicación | Android TV + Celular |
-| **AndroidTV Control** | Control remoto y mantenimiento del TV box desde el celular | ADB por red, panel web, autolimpieza al arrancar | Celular + Android TV |
-| **Nacer** | 🔒 Proyecto en desarrollo: una IA local que crece con vos | Próximamente | Celular + Android TV |
-| **Retoca** | 🔒 Editor/mejorador de fotos y video con IA local | 100 % en el dispositivo · próximamente | Celular |
-
-### 📸 Capturas — Gordi
-<p>
-  <img src="img/gordi-1.png" width="260" alt="Gordi - pantalla principal">
-  <img src="img/gordi-2.png" width="260" alt="Gordi - captura">
-</p>
+<table>
+<tr>
+<td align="center" width="140"><img src="assets/icon-touchpad.png" width="80" alt="TouchPad"><br><b>TouchPad</b></td>
+<td>Usá el celular como touchpad, mouse y teclado del TV.<br><sub>Emparejamiento por PIN · cursor configurable · Wi‑Fi local</sub><br><sub>📱 Celular + Android TV</sub><br><img src="assets/feature-touchpad.png" width="320"> <img src="assets/banner-touchpad.png" width="160"></td>
+</tr>
+<tr>
+<td align="center" width="140"><img src="assets/icon-camaraip.png" width="80" alt="CamaraIP"><br><b>CamaraIP</b></td>
+<td>Convierte un celular en cámara IP y la mirás en el TV.<br><sub>Descubrimiento automático · fotos y video · sin ADB ni root</sub><br><sub>📱 Celular + Android TV</sub><br><img src="assets/banner-camaraip.png" width="200"></td>
+</tr>
+<tr>
+<td align="center" width="140"><img src="assets/icon-vozatexto.png" width="80" alt="VozATexto"><br><b>VozATexto</b></td>
+<td>Transcripción en vivo de voz o del audio de otras apps.<br><sub>Offline · traducción en el equipo · subtítulos flotantes · TXT/PDF/SRT</sub><br><sub>📱 Celular + Android TV</sub><br><img src="assets/feature-vozatexto.png" width="320"> <img src="assets/banner-vozatexto.png" width="160"></td>
+</tr>
+<tr>
+<td align="center" width="140"><img src="assets/icon-gordi.png" width="80" alt="Gordi"><br><b>Gordi</b></td>
+<td>Mascota virtual estilo Tamagotchi de los 90.<br><sub>Varias especies · evolución · notificaciones</sub><br><sub>📱 Celular</sub><br><img src="assets/feature-gordi.png" width="320"><br><img src="assets/gordi-captura-1.png" width="120"> <img src="assets/gordi-captura-2.png" width="120"> <img src="assets/gordi-captura-3.png" width="120"> </td>
+</tr>
+<tr>
+<td align="center" width="140"><img src="assets/icon-consola-tv.png" width="80" alt="Consola TV"><br><b>Consola TV</b></td>
+<td>Consola de ajustes y terminal dentro del propio TV box.<br><sub>Ajustes explicados en castellano · nivel de riesgo y revertir · glosario</sub><br><sub>📱 Android TV</sub><br><img src="assets/banner-consola-tv.png" width="200"></td>
+</tr>
+<tr>
+<td align="center" width="140"><img src="assets/icon-mesa.png" width="80" alt="Mesa"><br><b>Mesa</b></td>
+<td>Panel de ajustes, terminal y datos del equipo.<br><sub>Buscador de ~118 comandos con explicación</sub><br><sub>📱 Android TV + Celular</sub><br><img src="assets/banner-mesa.png" width="200"></td>
+</tr>
+<tr>
+<td align="center" width="140"><img src="assets/icon-androidtv-control.png" width="80" alt="AndroidTV Control"><br><b>AndroidTV Control</b></td>
+<td>Control remoto y mantenimiento del TV box desde el celular.<br><sub>ADB por red · panel web · autolimpieza al arrancar</sub><br><sub>📱 Celular + Android TV</sub><br><img src="assets/banner-androidtv-control.png" width="200"></td>
+</tr>
+<tr>
+<td align="center" width="140"><img src="assets/icon-nacer.png" width="80" alt="Nacer"><br><b>Nacer</b></td>
+<td>🔒 Proyecto en desarrollo: una IA local que crece con vos.<br><sub>Próximamente</sub><br><sub>📱 Celular + Android TV</sub><br><img src="assets/teaser-nacer.png" width="320"></td>
+</tr>
+<tr>
+<td align="center" width="140"><img src="assets/icon-retoca.png" width="80" alt="Retoca"><br><b>Retoca</b></td>
+<td>🔒 Editor/mejorador de fotos y video con IA local.<br><sub>100 % en el dispositivo · próximamente</sub><br><sub>📱 Celular</sub><br><img src="assets/teaser-retoca.png" width="320"></td>
+</tr>
+</table>
 
 ## 📬 Contacto
 ¿Querés una app para tu celular o TV box? Escribime a **[nachosumo@gmail.com](mailto:nachosumo@gmail.com)**.
