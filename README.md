@@ -1,6 +1,6 @@
 # Hola, soy Juan Ignacio (Nacho) 👋
 
-📍 Mar del Plata, Argentina · 📧 [nachosumo@gmail.com](mailto:nachosumo@gmail.com)
+📍 Mar del Plata, Argentina
 
 Desarrollo **apps Android para celulares y Android TV / TV boxes**, con foco en automatización, control remoto entre dispositivos e **IA que corre 100 % en el equipo** (sin nube, sin cuentas).
 
