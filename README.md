@@ -37,7 +37,7 @@ Desarrollo **apps Android para celulares y Android TV / TV boxes**, con foco en 
 </tr>
 <tr>
 <td align="center" width="140"><img src="assets/icon-mesa.png" width="80" alt="Mesa"><br><b>Mesa</b></td>
-<td>Panel de ajustes, terminal y datos del equipo.<br><sub>Buscador de ~118 comandos con explicación</sub><br><sub>📱 Android TV + Celular</sub><br><img src="assets/banner-mesa.png" width="200"><br><img src="assets/screens/mesa/mesa-inicio.png" width="160" alt="mesa-inicio"> <img src="assets/screens/mesa/mesa-ajustes.png" width="330" alt="mesa-ajustes"> <img src="assets/screens/mesa/mesa-terminal.png" width="330" alt="mesa-terminal"></td>
+<td>Panel de ajustes, terminal y datos del equipo.<br><sub>Buscador de ~118 comandos con explicación</sub><br><sub>📱 Android TV + Celular</sub> · <b>v1.1.0</b><br><br><b>Novedades 1.1.0:</b> rediseño estilo Launcher TV: intro animada, 8 paletas con modo claro/oscuro/automático, tarjetas con foco animado y tutorial ilustrado.<br><img src="assets/screens/mesa/v1.1.0/ajustes.png" width="330" alt="mesa-ajustes"> <img src="assets/screens/mesa/v1.1.0/elegir-modo.png" width="330" alt="mesa-elegir-modo"><br><img src="assets/banner-mesa.png" width="200"><br><img src="assets/screens/mesa/mesa-inicio.png" width="160" alt="mesa-inicio"> <img src="assets/screens/mesa/mesa-ajustes.png" width="330" alt="mesa-ajustes"> <img src="assets/screens/mesa/mesa-terminal.png" width="330" alt="mesa-terminal"></td>
 </tr>
 <tr>
 <td align="center" width="140"><img src="assets/icon-androidtv-control.png" width="80" alt="AndroidTV Control"><br><b>AndroidTV Control</b></td>
