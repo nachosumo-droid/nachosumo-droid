@@ -41,7 +41,7 @@ Desarrollo **apps Android para celulares y Android TV / TV boxes**, con foco en 
 </tr>
 <tr>
 <td align="center" width="140"><img src="assets/icon-androidtv-control.png" width="80" alt="AndroidTV Control"><br><b>AndroidTV Control</b></td>
-<td>Control remoto y mantenimiento del TV box desde el celular.<br><sub>ADB por red · panel web · autolimpieza al arrancar</sub><br><sub>📱 Celular + Android TV</sub><br><img src="assets/banner-androidtv-control.png" width="200"><br><img src="assets/screens/androidtv-control/atv-panel.png" width="340" alt="atv-panel"><br><img src="assets/screens/androidtv-control/atv-control.png" width="220" alt="atv-control"> <img src="assets/screens/androidtv-control/atv-limpieza.png" width="220" alt="atv-limpieza"> <img src="assets/screens/androidtv-control/atv-dispositivo.png" width="220" alt="atv-dispositivo"></td>
+<td>Control remoto y mantenimiento del TV box desde el celular.<br><sub>ADB por red · panel web · autolimpieza al arrancar</sub><br><sub>📱 Celular + Android TV</sub> · <b>v1.1.0</b><br><br><b>Novedades 1.1.0:</b> rediseño estilo Launcher TV: intro animada, 8 paletas con modo claro/oscuro/automático, fondos vectoriales nítidos, tarjetas con foco animado y tutorial ilustrado.<br><img src="assets/screens/androidtv-control/v1.1.0/panel-control.png" width="200" alt="androidtv-control-panel-control"> <img src="assets/screens/androidtv-control/v1.1.0/panel-claro-atardecer.png" width="200" alt="androidtv-control-panel-claro-atardecer"> <img src="assets/screens/androidtv-control/v1.1.0/principal.png" width="330" alt="androidtv-control-principal"> <img src="assets/screens/androidtv-control/v1.1.0/intro-2100.png" width="330" alt="androidtv-control-intro-2100"><br><img src="assets/banner-androidtv-control.png" width="200"><br><img src="assets/screens/androidtv-control/atv-panel.png" width="340" alt="atv-panel"><br><img src="assets/screens/androidtv-control/atv-control.png" width="220" alt="atv-control"> <img src="assets/screens/androidtv-control/atv-limpieza.png" width="220" alt="atv-limpieza"> <img src="assets/screens/androidtv-control/atv-dispositivo.png" width="220" alt="atv-dispositivo"></td>
 </tr>
 <tr>
 <td align="center" width="140"><b>📺<br>IPTV Público 2.1</b></td>
@@ -62,4 +62,4 @@ Desarrollo **apps Android para celulares y Android TV / TV boxes**, con foco en 
 </table>
 
 ## 📬 Contacto
-¿Querés una app para tu celular o TV box? Escribime a **[nachosumo@gmail.com](mailto:nachosumo@gmail.com)**.
+¿Querés una app para tu celular o TV box? Escribime por GitHub: **[@nachosumo-droid](https://github.com/nachosumo-droid)**.
