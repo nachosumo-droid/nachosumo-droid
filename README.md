@@ -1,8 +1,10 @@
-# Hola, soy Juan Ignacio (Nacho) 👋
+<p align="center"><a href="https://nachosumo-droid.github.io/apps/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/marca/horizontal-claro.svg"><img src="assets/marca/horizontal.svg" alt="NachoSumoSoft" width="420"></picture></a></p>
 
-📍 Mar del Plata, Argentina
+<p align="center"><b>Apps para Android TV y celular</b> · <a href="https://nachosumo-droid.github.io/apps/">Sitio oficial y descargas</a> · 7 días de prueba · pago con Mercado Pago</p>
 
-Desarrollo **apps Android para celulares y Android TV / TV boxes**, con foco en automatización, control remoto entre dispositivos e **IA que corre 100 % en el equipo** (sin nube, sin cuentas).
+# NachoSumoSoft
+
+En **NachoSumoSoft** desarrollamos **apps Android para celulares y Android TV / TV boxes**, con foco en automatización, control remoto entre dispositivos e **IA que corre 100 % en el equipo** (sin nube, sin cuentas).
 
 ## 🛠️ Habilidades
 - **Lenguajes:** Kotlin, Java, C/C++ (JNI), Python, Bash
@@ -12,7 +14,7 @@ Desarrollo **apps Android para celulares y Android TV / TV boxes**, con foco en 
 - **Calidad:** tests JUnit / Robolectric, Gradle Kotlin DSL, builds firmados
 
 ## 📱 Proyectos
-> El código fuente es privado. Esta es una vitrina de lo que hice. Las imágenes son íconos, banners, gráficos y capturas reales de cada app.
+> El código fuente es privado. Esta es una vitrina de nuestras apps. Las imágenes son íconos, banners, gráficos y capturas reales de cada app.
 
 <table>
 <tr>
