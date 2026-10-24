@@ -61,7 +61,7 @@ Desarrollo **apps Android para celulares y Android TV / TV boxes**, con foco en 
 </tr>
 <tr>
 <td align="center" width="140"><img src="assets/icon-retoca.png" width="80" alt="Retoca"><br><b>Retoca</b></td>
-<td>🔒 Editor/mejorador de fotos y video con IA local.<br><sub>100 % en el dispositivo · próximamente</sub><br><sub>📱 Celular</sub> · <b>v0.3.0</b><br><br><b>Novedades 0.3.0:</b> rediseño estilo Launcher TV: intro animada salteable, 8 paletas en claro/oscuro/automático, fondos vectoriales, botones con foco animado y sonidos, tutorial «Cómo usar» ilustrado y registro de errores.<br><img src="assets/screens/retoca/v0.3.0/principal.png" width="200" alt="retoca-principal"> <img src="assets/screens/retoca/v0.3.0/principal-claro.png" width="200" alt="retoca-principal-claro"> <img src="assets/screens/retoca/v0.3.0/tutorial-1.png" width="200" alt="retoca-tutorial-1"><br><img src="assets/teaser-retoca.png" width="320"></td>
+<td>🔒 Editor/mejorador de fotos y video con IA local.<br><sub>100 % en el dispositivo · próximamente</sub><br><sub>📱 Celular</sub> · <b>v0.3.0</b><br><br><b>Novedades 0.3.0:</b> rediseño estilo Launcher TV: intro animada salteable, 8 paletas en claro/oscuro/automático, fondos vectoriales, botones con foco animado y sonidos, tutorial «Cómo usar» ilustrado y registro de errores.<br><img src="assets/screens/retoca/v0.3.0/principal.png" width="200" alt="retoca-principal"> <img src="assets/screens/retoca/v0.3.0/principal-claro.png" width="200" alt="retoca-principal-claro"> <img src="assets/screens/retoca/v0.3.0/tutorial-1.png" width="200" alt="retoca-tutorial-1"></td>
 </tr>
 </table>
 
