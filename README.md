@@ -1,8 +1,10 @@
-<p align="center"><a href="https://nachosumo-droid.github.io/apps/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/marca/horizontal-claro.svg"><img src="assets/marca/horizontal.svg" alt="NachoSumoSoft" width="420"></picture></a></p>
+<p align="center"><a href="https://nachosumo-droid.github.io/apps/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/marca/horizontal-claro.png"><source media="(prefers-color-scheme: light)" srcset="assets/marca/horizontal.png"><img src="assets/marca/horizontal.png" alt="NachoSumoSoft" width="440"></picture></a></p>
 
-<p align="center"><b>Apps para Android TV y celular</b> · <a href="https://nachosumo-droid.github.io/apps/">Sitio oficial y descargas</a> · 7 días de prueba · pago con Mercado Pago</p>
+<p align="center"><b>Apps para Android TV y celular</b> · IA 100 % en el equipo · 7 días de prueba · pago con Mercado Pago</p>
 
-# NachoSumoSoft
+<p align="center"><a href="https://nachosumo-droid.github.io/apps/"><img src="https://img.shields.io/badge/Sitio%20oficial-nachosumo--droid.github.io%2Fapps-2563eb?style=for-the-badge&labelColor=070b16" alt="Sitio oficial"></a> <img src="https://img.shields.io/badge/Android%20TV%20%2B%20Celular-14%20apps-22c55e?style=for-the-badge&labelColor=070b16" alt="Apps"></p>
+
+# <img src="assets/marca/icono-512.png" width="36" align="top" alt=""> NachoSumoSoft
 
 En **NachoSumoSoft** desarrollamos **apps Android para celulares y Android TV / TV boxes**, con foco en automatización, control remoto entre dispositivos e **IA que corre 100 % en el equipo** (sin nube, sin cuentas).
 
@@ -75,5 +77,11 @@ En **NachoSumoSoft** desarrollamos **apps Android para celulares y Android TV / 
 </tr>
 </table>
 
+## 🌐 Sitio oficial
+Descargas, precios y licencias en **[nachosumo-droid.github.io/apps](https://nachosumo-droid.github.io/apps/)**.
+
 ## 📬 Contacto
 ¿Querés una app para tu celular o TV box? Escribime por GitHub: **[@nachosumo-droid](https://github.com/nachosumo-droid)**.
+
+
+<p align="center"><a href="https://nachosumo-droid.github.io/apps/"><img src="assets/marca/favicon-32.png" width="20" alt=""></a> <sub>© NachoSumoSoft</sub></p>
