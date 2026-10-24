@@ -57,7 +57,7 @@ Desarrollo **apps Android para celulares y Android TV / TV boxes**, con foco en 
 </tr>
 <tr>
 <td align="center" width="140"><img src="assets/icon-nacer.png" width="80" alt="Nacer"><br><b>Nacer</b></td>
-<td>🔒 Proyecto en desarrollo: una IA local que crece con vos.<br><sub>Compañera con IA local, en desarrollo — próximamente en Play Store · <b>v1.6</b></sub><br><sub>📱 Celular + Android TV</sub><br><img src="assets/teaser-nacer.png" width="320"></td>
+<td>🔒 Proyecto en desarrollo: una IA local que crece con vos.<br><sub>Compañera con IA local, en desarrollo — próximamente en Play Store · <b>v1.7</b></sub><br><sub>📱 Celular + Android TV</sub><br><img src="assets/teaser-nacer.png" width="320"></td>
 </tr>
 <tr>
 <td align="center" width="140"><img src="assets/icon-retoca.png" width="80" alt="Retoca"><br><b>Retoca</b></td>
