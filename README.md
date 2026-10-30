@@ -89,3 +89,6 @@ Descargas, precios y licencias en **[nachosumo-droid.github.io/apps](https://nac
 
 
 <p align="center"><a href="https://nachosumo-droid.github.io/apps/"><img src="assets/marca/favicon-32.png?v=3" width="20" alt=""></a> <sub>© SumoSoft</sub></p>
+
+---
+<sub>SumoSoft by Jiav (Buenos Aires, Argentina)</sub>
